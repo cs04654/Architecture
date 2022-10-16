@@ -1,0 +1,8 @@
+Total Instructions: 27761612330
+
+Branch Predictors: (Name - Results)
+  Nbit-16K-1: Correct: 3558014273 Incorrect: 142605799
+  Nbit-8K-2: Correct: 3598203518 Incorrect: 102416554
+  NonT: Correct: 1792960429 Incorrect: 1907659643
+  BTFNT: Correct: 2475923715 Incorrect: 1224696357
+  Gshare-2-13-8K: Correct: 3605401883 Incorrect: 95218189
