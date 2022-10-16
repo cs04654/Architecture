@@ -1,0 +1,128 @@
+(1) address: 0x10010000 (tag 0x00400400)  block range: 0-0
+   trying block 0 empty -- MISS
+(2) address: 0x10010000 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400400 -- HIT
+(3) address: 0x10010010 (tag 0x00400400)  block range: 1-1
+   trying block 1 empty -- MISS
+(4) address: 0x10010010 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(5) address: 0x10010020 (tag 0x00400400)  block range: 2-2
+   trying block 2 empty -- MISS
+(6) address: 0x10010020 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(7) address: 0x10010030 (tag 0x00400400)  block range: 3-3
+   trying block 3 empty -- MISS
+(8) address: 0x10010030 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(9) address: 0x10010040 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(10) address: 0x10010040 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(11) address: 0x10010050 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(12) address: 0x10010050 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(13) address: 0x10010060 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(14) address: 0x10010060 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+(15) address: 0x10010070 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(16) address: 0x10010070 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
+(17) address: 0x10010004 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(18) address: 0x10010004 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400400 -- HIT
+(19) address: 0x10010014 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(20) address: 0x10010014 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(21) address: 0x10010024 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(22) address: 0x10010024 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(23) address: 0x10010034 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(24) address: 0x10010034 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(25) address: 0x10010044 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(26) address: 0x10010044 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(27) address: 0x10010054 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(28) address: 0x10010054 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(29) address: 0x10010064 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(30) address: 0x10010064 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+(31) address: 0x10010074 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(32) address: 0x10010074 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
+(33) address: 0x10010008 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(34) address: 0x10010008 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400400 -- HIT
+(35) address: 0x10010018 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(36) address: 0x10010018 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(37) address: 0x10010028 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(38) address: 0x10010028 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(39) address: 0x10010038 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(40) address: 0x10010038 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(41) address: 0x10010048 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(42) address: 0x10010048 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(43) address: 0x10010058 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(44) address: 0x10010058 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(45) address: 0x10010068 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(46) address: 0x10010068 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+(47) address: 0x10010078 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(48) address: 0x10010078 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
+(49) address: 0x1001000c (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(50) address: 0x1001000c (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400400 -- HIT
+(51) address: 0x1001001c (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(52) address: 0x1001001c (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(53) address: 0x1001002c (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(54) address: 0x1001002c (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(55) address: 0x1001003c (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(56) address: 0x1001003c (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(57) address: 0x1001004c (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(58) address: 0x1001004c (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(59) address: 0x1001005c (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(60) address: 0x1001005c (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(61) address: 0x1001006c (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(62) address: 0x1001006c (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+(63) address: 0x1001007c (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(64) address: 0x1001007c (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
